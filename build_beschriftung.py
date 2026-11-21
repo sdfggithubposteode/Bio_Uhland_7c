@@ -1,6 +1,6 @@
 """Überträgt die Positionen aus Bilder/beschriftungen.json in die HTML-Datei.
 
-Ersetzt den Block zwischen GENERATED-START/END in index.html.
+Ersetzt den Block zwischen GENERATED-START/END in Bio_Lerntrainer_KA.html.
 Nach Änderungen im beschriftung_editor.py einfach erneut ausführen:
     python build_beschriftung.py
 """
@@ -108,21 +108,16 @@ def img_src(fname):
     return "Bilder/" + quote(fname)
 
 
-def normalize_boxes(labels, rect):
+def normalize_boxes(labels):
     """Gibt allen Kästchen eines Bildes dieselbe Größe (zentriert auf der
     bisherigen Mitte), damit die Wortlänge nicht erraten werden kann."""
     w = max(lb["box"]["w"] for lb in labels)
     h = max(lb["box"]["h"] for lb in labels)
-    ix, iy, iw, ih = rect["x"], rect["y"], rect["w"], rect["h"]
     for lb in labels:
         b = lb["box"]
-        x, y = b["x"] + b["w"] / 2 - w / 2, b["y"] + b["h"] / 2 - h / 2
-        if not (x + w <= ix or x >= ix + iw or y + h <= iy or y >= iy + ih):
-            moves = [(ix - 4 - w - x, 0), (ix + iw + 4 - x, 0),
-                     (0, iy - 4 - h - y), (0, iy + ih + 4 - y)]
-            mx, my = min(moves, key=lambda m: m[0] ** 2 + m[1] ** 2)
-            x, y = x + mx, y + my
-        b["x"], b["y"], b["w"], b["h"] = round(x), round(y), w, h
+        b["x"] = round(b["x"] + b["w"] / 2 - w / 2)
+        b["y"] = round(b["y"] + b["h"] / 2 - h / 2)
+        b["w"], b["h"] = w, h
 
 
 def crop_rect(labels, rect, canvas):
@@ -149,7 +144,7 @@ def main():
         e = data[fname]
         labels = [{"text": lb["text"], "box": dict(lb["box"]),
                    "point": dict(lb["point"])} for lb in e["labels"]]
-        normalize_boxes(labels, e["imageRect"])
+        normalize_boxes(labels)
         imgs.append({
             "key": meta["key"],
             "name": meta["name"],

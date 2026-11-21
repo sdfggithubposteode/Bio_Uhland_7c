@@ -41,9 +41,9 @@
         "id": "zellplasma",
         "text": "Zellplasma",
         "box": {
-          "x": 230.0,
+          "x": 212.0,
           "y": 636.0,
-          "w": 114,
+          "w": 150,
           "h": 34
         },
         "point": {
@@ -55,9 +55,9 @@
         "id": "zellkern",
         "text": "Zellkern",
         "box": {
-          "x": 938.0,
+          "x": 909.5,
           "y": 249.0,
-          "w": 93,
+          "w": 150,
           "h": 34
         },
         "point": {
@@ -69,9 +69,9 @@
         "id": "zellmembran",
         "text": "Zellmembran",
         "box": {
-          "x": 975.0,
+          "x": 966.5,
           "y": 715.0,
-          "w": 133,
+          "w": 150,
           "h": 34
         },
         "point": {
@@ -99,19 +99,19 @@
       "h": 540
     },
     "crop": {
-      "x": 162,
-      "y": 210,
-      "w": 1027,
-      "h": 600
+      "x": 148,
+      "y": 187,
+      "w": 1040,
+      "h": 623
     },
     "labels": [
       {
         "id": "zellkern",
         "text": "Zellkern",
         "box": {
-          "x": 678.0,
-          "y": 251.0,
-          "w": 93,
+          "x": 635.0,
+          "y": 217.0,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -123,9 +123,9 @@
         "id": "kernmembran",
         "text": "Kernmembran",
         "box": {
-          "x": 371.0,
+          "x": 352.0,
           "y": 265.0,
-          "w": 139,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -137,9 +137,9 @@
         "id": "chloroplast",
         "text": "Chloroplast",
         "box": {
-          "x": 926.0,
-          "y": 295.0,
-          "w": 118,
+          "x": 895.5,
+          "y": 315.0,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -151,9 +151,9 @@
         "id": "zellwand",
         "text": "Zellwand",
         "box": {
-          "x": 324.0,
+          "x": 286.0,
           "y": 669.0,
-          "w": 101,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -165,9 +165,9 @@
         "id": "zellmembran",
         "text": "Zellmembran",
         "box": {
-          "x": 221.0,
+          "x": 199.0,
           "y": 570.0,
-          "w": 133,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -179,9 +179,9 @@
         "id": "mitochondrium",
         "text": "Mitochondrium",
         "box": {
-          "x": 192.0,
+          "x": 178.5,
           "y": 386.0,
-          "w": 150,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -193,9 +193,9 @@
         "id": "zellplasma",
         "text": "Zellplasma",
         "box": {
-          "x": 800.0,
+          "x": 768.5,
           "y": 265.0,
-          "w": 114,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -207,9 +207,9 @@
         "id": "vakuole",
         "text": "Vakuole",
         "box": {
-          "x": 976.0,
+          "x": 934.0,
           "y": 486.0,
-          "w": 93,
+          "w": 177,
           "h": 34
         },
         "point": {
@@ -275,9 +275,9 @@
         "id": "vakuole",
         "text": "Vakuole",
         "box": {
-          "x": 406.0,
+          "x": 386.0,
           "y": 199.0,
-          "w": 93,
+          "w": 133,
           "h": 34
         },
         "point": {
@@ -289,9 +289,9 @@
         "id": "zellwand",
         "text": "Zellwand",
         "box": {
-          "x": 1123.0,
+          "x": 1107.0,
           "y": 175.0,
-          "w": 101,
+          "w": 133,
           "h": 34
         },
         "point": {
@@ -303,9 +303,9 @@
         "id": "zellplasma",
         "text": "Zellplasma",
         "box": {
-          "x": 1276.0,
+          "x": 1266.5,
           "y": 475.0,
-          "w": 114,
+          "w": 133,
           "h": 34
         },
         "point": {
@@ -317,9 +317,9 @@
         "id": "zellkern",
         "text": "Zellkern",
         "box": {
-          "x": 1282.0,
+          "x": 1262.0,
           "y": 566.0,
-          "w": 93,
+          "w": 133,
           "h": 34
         },
         "point": {
@@ -331,9 +331,9 @@
         "id": "chloroplast",
         "text": "Chloroplast",
         "box": {
-          "x": 1275.0,
+          "x": 1267.5,
           "y": 327.0,
-          "w": 118,
+          "w": 133,
           "h": 34
         },
         "point": {
@@ -361,9 +361,9 @@
       "h": 540
     },
     "crop": {
-      "x": 130,
+      "x": 111,
       "y": 133,
-      "w": 1291,
+      "w": 1332,
       "h": 739
     },
     "labels": [
@@ -371,9 +371,9 @@
         "id": "spaltoeffnung",
         "text": "Spaltöffnung",
         "box": {
-          "x": 550.0,
+          "x": 479.0,
           "y": 808.0,
-          "w": 131,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -399,9 +399,9 @@
         "id": "kutikula_oben",
         "text": "Kutikula",
         "box": {
-          "x": 807.0,
+          "x": 750.5,
           "y": 163.0,
-          "w": 94,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -413,9 +413,9 @@
         "id": "obere_epidermis",
         "text": "Obere Epidermis",
         "box": {
-          "x": 1202.0,
+          "x": 1176.5,
           "y": 308.0,
-          "w": 156,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -427,9 +427,9 @@
         "id": "palisadengewebe",
         "text": "Palisadengewebe",
         "box": {
-          "x": 358.0,
+          "x": 336.5,
           "y": 181.0,
-          "w": 164,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -441,9 +441,9 @@
         "id": "blattader",
         "text": "Blattader",
         "box": {
-          "x": 1035.0,
+          "x": 981.5,
           "y": 199.0,
-          "w": 100,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -455,9 +455,9 @@
         "id": "schwammgewebe",
         "text": "Schwammgewebe",
         "box": {
-          "x": 160.0,
+          "x": 141.0,
           "y": 507.0,
-          "w": 169,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -469,9 +469,9 @@
         "id": "untere_epidermis",
         "text": "Untere Epidermis",
         "box": {
-          "x": 1229.0,
+          "x": 1206.5,
           "y": 719.0,
-          "w": 162,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -483,9 +483,9 @@
         "id": "kutikula_unten",
         "text": "Kutikula",
         "box": {
-          "x": 1181.0,
+          "x": 1124.5,
           "y": 808.0,
-          "w": 94,
+          "w": 207,
           "h": 34
         },
         "point": {
@@ -523,9 +523,9 @@
         "id": "okular",
         "text": "Okular",
         "box": {
-          "x": 527.0,
+          "x": 483.5,
           "y": 220.0,
-          "w": 81,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -537,9 +537,9 @@
         "id": "tubus",
         "text": "Tubus",
         "box": {
-          "x": 308.0,
+          "x": 262.0,
           "y": 337.0,
-          "w": 76,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -551,9 +551,9 @@
         "id": "objektivrevolver",
         "text": "Objektivrevolver",
         "box": {
-          "x": 651.0,
+          "x": 646.0,
           "y": 329.0,
-          "w": 158,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -565,9 +565,9 @@
         "id": "objektiv",
         "text": "Objektiv",
         "box": {
-          "x": 680.0,
+          "x": 643.5,
           "y": 409.0,
-          "w": 95,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -579,9 +579,9 @@
         "id": "objekttisch",
         "text": "Objekttisch",
         "box": {
-          "x": 701.0,
+          "x": 675.5,
           "y": 501.0,
-          "w": 117,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -593,9 +593,9 @@
         "id": "blende",
         "text": "Blende",
         "box": {
-          "x": 679.0,
+          "x": 636.5,
           "y": 576.0,
-          "w": 83,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -607,9 +607,9 @@
         "id": "triebrad",
         "text": "Triebrad",
         "box": {
-          "x": 231.0,
+          "x": 194.0,
           "y": 545.0,
-          "w": 94,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -635,9 +635,9 @@
         "id": "stativ_fuss",
         "text": "Stativ und Fuß",
         "box": {
-          "x": 649.0,
+          "x": 635.0,
           "y": 777.0,
-          "w": 140,
+          "w": 168,
           "h": 34
         },
         "point": {
@@ -665,19 +665,19 @@
       "h": 331
     },
     "crop": {
-      "x": 123,
-      "y": 101,
-      "w": 1207,
-      "h": 500
+      "x": 30,
+      "y": 53,
+      "w": 1300,
+      "h": 548
     },
     "labels": [
       {
         "id": "teilungsfaehig_1",
         "text": "teilungsfähige Zelle",
         "box": {
-          "x": 153.0,
-          "y": 170.0,
-          "w": 183,
+          "x": 60.0,
+          "y": 130.0,
+          "w": 337,
           "h": 34
         },
         "point": {
@@ -689,9 +689,9 @@
         "id": "verdopplung",
         "text": "Verdopplung des Zellkerns",
         "box": {
-          "x": 344.0,
+          "x": 293.0,
           "y": 174.0,
-          "w": 235,
+          "w": 337,
           "h": 34
         },
         "point": {
@@ -703,9 +703,9 @@
         "id": "teilungsfaehig_2",
         "text": "teilungsfähige Zelle",
         "box": {
-          "x": 567.0,
+          "x": 490.0,
           "y": 131.0,
-          "w": 183,
+          "w": 337,
           "h": 34
         },
         "point": {
@@ -717,8 +717,8 @@
         "id": "differenziert",
         "text": "differenzierte Zelle (nicht teilungsfähig)",
         "box": {
-          "x": 769.5,
-          "y": 131.0,
+          "x": 747.5,
+          "y": 83.0,
           "w": 337,
           "h": 34
         },
@@ -757,9 +757,9 @@
         "id": "druesenzelle",
         "text": "Drüsenzelle",
         "box": {
-          "x": 154.0,
+          "x": 144.5,
           "y": 430.0,
-          "w": 120,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -771,9 +771,9 @@
         "id": "nervenzelle",
         "text": "Nervenzelle",
         "box": {
-          "x": 383.0,
+          "x": 374.5,
           "y": 259.0,
-          "w": 122,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -785,9 +785,9 @@
         "id": "knorpelzelle",
         "text": "Knorpelzelle",
         "box": {
-          "x": 239.0,
+          "x": 232.5,
           "y": 737.0,
-          "w": 126,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -799,9 +799,9 @@
         "id": "muskelzelle",
         "text": "Muskelzelle",
         "box": {
-          "x": 562.0,
+          "x": 553.0,
           "y": 752.0,
-          "w": 121,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -813,9 +813,9 @@
         "id": "stammzellen",
         "text": "Stammzellen",
         "box": {
-          "x": 631.0,
+          "x": 626.5,
           "y": 215.0,
-          "w": 130,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -827,9 +827,9 @@
         "id": "blutzellen",
         "text": "Blutzellen",
         "box": {
-          "x": 834.0,
+          "x": 818.0,
           "y": 237.0,
-          "w": 107,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -855,9 +855,9 @@
         "id": "eizelle",
         "text": "Eizelle",
         "box": {
-          "x": 864.0,
+          "x": 834.5,
           "y": 723.0,
-          "w": 80,
+          "w": 139,
           "h": 34
         },
         "point": {
@@ -886,9 +886,9 @@
     },
     "crop": {
       "x": 221,
-      "y": 149,
-      "w": 1109,
-      "h": 680
+      "y": 141,
+      "w": 1158,
+      "h": 688
     },
     "labels": [
       {
@@ -909,9 +909,9 @@
         "id": "deckgewebe",
         "text": "Zelle aus dem Deckgewebe",
         "box": {
-          "x": 519.0,
+          "x": 489.5,
           "y": 258.0,
-          "w": 238,
+          "w": 297,
           "h": 34
         },
         "point": {
@@ -923,9 +923,9 @@
         "id": "speicherzelle",
         "text": "Speicherzelle",
         "box": {
-          "x": 869.0,
-          "y": 221.0,
-          "w": 132,
+          "x": 784.5,
+          "y": 214.0,
+          "w": 297,
           "h": 34
         },
         "point": {
@@ -937,9 +937,9 @@
         "id": "wurzelhaarzelle",
         "text": "Wurzelhaarzelle",
         "box": {
-          "x": 1121.0,
-          "y": 179.0,
-          "w": 154,
+          "x": 1052.5,
+          "y": 171.0,
+          "w": 297,
           "h": 34
         },
         "point": {
@@ -951,9 +951,9 @@
         "id": "leitgewebe",
         "text": "Zelle aus dem Leitgewebe",
         "box": {
-          "x": 670.0,
+          "x": 635.5,
           "y": 765.0,
-          "w": 228,
+          "w": 297,
           "h": 34
         },
         "point": {
@@ -991,9 +991,9 @@
         "id": "deckgewebe",
         "text": "Deckgewebe von Tieren",
         "box": {
-          "x": 412.0,
+          "x": 398.0,
           "y": 166.0,
-          "w": 213,
+          "w": 241,
           "h": 34
         },
         "point": {
@@ -1019,9 +1019,9 @@
         "id": "muskelgewebe",
         "text": "Muskelgewebe von Tieren",
         "box": {
-          "x": 694.0,
+          "x": 688.5,
           "y": 165.0,
-          "w": 230,
+          "w": 241,
           "h": 34
         },
         "point": {
@@ -1033,9 +1033,9 @@
         "id": "leitgewebe",
         "text": "Leitgewebe von Pflanzen",
         "box": {
-          "x": 688.0,
+          "x": 678.5,
           "y": 826.0,
-          "w": 222,
+          "w": 241,
           "h": 34
         },
         "point": {
@@ -1063,19 +1063,19 @@
       "h": 333
     },
     "crop": {
-      "x": 270,
-      "y": 133,
-      "w": 1060,
-      "h": 524
+      "x": 211,
+      "y": 111,
+      "w": 1138,
+      "h": 595
     },
     "labels": [
       {
         "id": "organismus",
         "text": "Organismus",
         "box": {
-          "x": 316.5,
-          "y": 163.0,
-          "w": 121,
+          "x": 241.0,
+          "y": 143.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1087,9 +1087,9 @@
         "id": "organ_blatt",
         "text": "Organ",
         "box": {
-          "x": 521.0,
-          "y": 167.0,
-          "w": 77,
+          "x": 459.5,
+          "y": 143.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1101,37 +1101,37 @@
         "id": "zelle",
         "text": "Zelle",
         "box": {
-          "x": 760.0,
-          "y": 166.0,
-          "w": 68,
+          "x": 677.0,
+          "y": 142.0,
+          "w": 204,
           "h": 34
         },
         "point": {
-          "x": 794.0,
-          "y": 264.0
+          "x": 781.0,
+          "y": 280.0
         }
       },
       {
         "id": "gewebe",
         "text": "Gewebe",
         "box": {
-          "x": 1139.0,
-          "y": 167.0,
-          "w": 91,
+          "x": 1114.5,
+          "y": 142.0,
+          "w": 204,
           "h": 34
         },
         "point": {
-          "x": 1186.0,
-          "y": 271.0
+          "x": 1215.0,
+          "y": 270.0
         }
       },
       {
         "id": "organ_blue",
         "text": "Organsystem",
         "box": {
-          "x": 932.5,
-          "y": 164.0,
-          "w": 130,
+          "x": 895.5,
+          "y": 141.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1143,9 +1143,9 @@
         "id": "z_zellkern",
         "text": "Zellkern",
         "box": {
-          "x": 663.0,
-          "y": 254.0,
-          "w": 93,
+          "x": 570.5,
+          "y": 220.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1157,23 +1157,23 @@
         "id": "z_zellwand",
         "text": "Zellmembran",
         "box": {
-          "x": 638.0,
-          "y": 585.0,
-          "w": 133,
+          "x": 491.5,
+          "y": 641.0,
+          "w": 204,
           "h": 34
         },
         "point": {
-          "x": 744.0,
-          "y": 487.0
+          "x": 739.0,
+          "y": 457.0
         }
       },
       {
         "id": "z_zellplasma",
         "text": "Zellplasma",
         "box": {
-          "x": 838.0,
-          "y": 246.0,
-          "w": 114,
+          "x": 784.0,
+          "y": 208.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1185,23 +1185,23 @@
         "id": "z_vakuole",
         "text": "Vakuole",
         "box": {
-          "x": 788.0,
-          "y": 585.0,
-          "w": 93,
+          "x": 650.5,
+          "y": 598.0,
+          "w": 204,
           "h": 34
         },
         "point": {
-          "x": 797.0,
-          "y": 453.0
+          "x": 775.0,
+          "y": 454.0
         }
       },
       {
         "id": "b_kronblatt",
         "text": "Staubblatt",
         "box": {
-          "x": 912.0,
-          "y": 593.0,
-          "w": 110,
+          "x": 811.0,
+          "y": 555.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1213,9 +1213,9 @@
         "id": "z_chloroplast",
         "text": "Chloroplast",
         "box": {
-          "x": 834.0,
-          "y": 525.0,
-          "w": 118,
+          "x": 737.0,
+          "y": 642.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1227,9 +1227,9 @@
         "id": "b_staubblatt",
         "text": "Stempel",
         "box": {
-          "x": 1028.5,
-          "y": 242.0,
-          "w": 93,
+          "x": 1007.0,
+          "y": 229.0,
+          "w": 204,
           "h": 34
         },
         "point": {
@@ -1241,8 +1241,8 @@
         "id": "b_fruchtblatt",
         "text": "Blütenblatt (Kronblatt)",
         "box": {
-          "x": 997.0,
-          "y": 545.0,
+          "x": 1023.0,
+          "y": 556.0,
           "w": 204,
           "h": 34
         },
@@ -1271,9 +1271,9 @@
       "h": 540
     },
     "crop": {
-      "x": 270,
+      "x": 242,
       "y": 145,
-      "w": 636,
+      "w": 806,
       "h": 665
     },
     "labels": [
@@ -1281,9 +1281,9 @@
         "id": "licht",
         "text": "Licht",
         "box": {
-          "x": 354.0,
+          "x": 272.0,
           "y": 175.0,
-          "w": 67,
+          "w": 231,
           "h": 34
         },
         "point": {
@@ -1295,14 +1295,14 @@
         "id": "co2",
         "text": "CO₂",
         "box": {
-          "x": 590.0,
-          "y": 533.0,
-          "w": 58,
+          "x": 616.5,
+          "y": 536.0,
+          "w": 231,
           "h": 34
         },
         "point": {
-          "x": 655.0,
-          "y": 492.0
+          "x": 659.0,
+          "y": 488.0
         }
       },
       {
@@ -1323,9 +1323,9 @@
         "id": "glukose",
         "text": "Glukose",
         "box": {
-          "x": 601.0,
+          "x": 531.0,
           "y": 183.0,
-          "w": 91,
+          "w": 231,
           "h": 34
         },
         "point": {
@@ -1337,14 +1337,14 @@
         "id": "o2",
         "text": "O₂",
         "box": {
-          "x": 692.0,
-          "y": 541.0,
-          "w": 48,
+          "x": 786.5,
+          "y": 431.0,
+          "w": 231,
           "h": 34
         },
         "point": {
-          "x": 714.0,
-          "y": 493.0
+          "x": 715.0,
+          "y": 485.0
         }
       }
     ]
@@ -1367,19 +1367,19 @@
       "h": 540
     },
     "crop": {
-      "x": 270,
-      "y": 155,
-      "w": 799,
-      "h": 669
+      "x": 218,
+      "y": 159,
+      "w": 878,
+      "h": 665
     },
     "labels": [
       {
         "id": "einfachzucker",
         "text": "Einfachzucker",
         "box": {
-          "x": 312.0,
-          "y": 186.0,
-          "w": 137,
+          "x": 264.0,
+          "y": 189.0,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1391,9 +1391,9 @@
         "id": "zweifachzucker",
         "text": "Zweifachzucker",
         "box": {
-          "x": 460.0,
-          "y": 186.0,
-          "w": 150,
+          "x": 443.5,
+          "y": 189.0,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1405,9 +1405,9 @@
         "id": "vielfachzucker",
         "text": "Vielfachzucker",
         "box": {
-          "x": 619.0,
-          "y": 185.0,
-          "w": 143,
+          "x": 632.0,
+          "y": 189.0,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1419,9 +1419,9 @@
         "id": "glycerin",
         "text": "Glycerin",
         "box": {
-          "x": 342.0,
-          "y": 419.0,
-          "w": 93,
+          "x": 248.0,
+          "y": 417.0,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1433,9 +1433,9 @@
         "id": "kartoffeln",
         "text": "Kartoffeln",
         "box": {
-          "x": 932.0,
+          "x": 905.0,
           "y": 204.0,
-          "w": 107,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1461,9 +1461,9 @@
         "id": "fettsaeuren",
         "text": "Fettsäuren",
         "box": {
-          "x": 484.0,
-          "y": 418.0,
-          "w": 110,
+          "x": 444.5,
+          "y": 419.0,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1475,23 +1475,23 @@
         "id": "fette",
         "text": "Fette",
         "box": {
-          "x": 622.0,
-          "y": 417.0,
-          "w": 68,
+          "x": 638.5,
+          "y": 419.0,
+          "w": 161,
           "h": 34
         },
         "point": {
-          "x": 669.0,
-          "y": 482.0
+          "x": 688.0,
+          "y": 554.0
         }
       },
       {
         "id": "erdnuesse",
         "text": "Erdnüsse",
         "box": {
-          "x": 916.0,
+          "x": 884.5,
           "y": 474.0,
-          "w": 98,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1503,9 +1503,9 @@
         "id": "proteine",
         "text": "Proteine",
         "box": {
-          "x": 548.0,
+          "x": 515.0,
           "y": 759.0,
-          "w": 95,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1517,9 +1517,9 @@
         "id": "sojabohnen",
         "text": "Sojabohnen",
         "box": {
-          "x": 902.0,
+          "x": 882.5,
           "y": 641.0,
-          "w": 122,
+          "w": 161,
           "h": 34
         },
         "point": {
@@ -1547,66 +1547,66 @@
       "h": 333
     },
     "crop": {
-      "x": 197,
-      "y": 119,
-      "w": 1205,
-      "h": 578
+      "x": 6,
+      "y": 68,
+      "w": 1501,
+      "h": 665
     },
     "labels": [
       {
         "id": "zellkern_erbsubstanz",
         "text": "Zellkern mit Erbsubstanz",
         "box": {
-          "x": 227.0,
-          "y": 582.0,
-          "w": 219,
+          "x": 36.0,
+          "y": 524.0,
+          "w": 382,
           "h": 34
         },
         "point": {
-          "x": 374.0,
-          "y": 419.0
+          "x": 372.0,
+          "y": 420.0
         }
       },
       {
         "id": "zellteilung",
         "text": "Zellteilung",
         "box": {
-          "x": 389.0,
-          "y": 289.0,
-          "w": 114,
+          "x": 259.0,
+          "y": 669.0,
+          "w": 382,
           "h": 34
         },
         "point": {
           "x": 448.0,
-          "y": 408.0
+          "y": 435.0
         }
       },
       {
         "id": "aufloesen_kernhuelle",
         "text": "Auflösen der Zellkernhülle",
         "box": {
-          "x": 413.0,
-          "y": 247.0,
-          "w": 233,
+          "x": 368.0,
+          "y": 144.0,
+          "w": 382,
           "h": 34
         },
         "point": {
-          "x": 532.0,
-          "y": 415.0
+          "x": 529.0,
+          "y": 390.0
         }
       },
       {
         "id": "beginn_verteilung",
         "text": "Beginn der Verteilung der Erbsubstanz",
         "box": {
-          "x": 371.0,
-          "y": 633.0,
-          "w": 323,
+          "x": 156.0,
+          "y": 189.0,
+          "w": 382,
           "h": 34
         },
         "point": {
-          "x": 534.0,
-          "y": 438.0
+          "x": 530.0,
+          "y": 428.0
         }
       },
       {
@@ -1614,8 +1614,8 @@
         "text": "Erbsubstanz gleichmäßig verteilt",
         "box": {
           "x": 562.0,
-          "y": 201.0,
-          "w": 281,
+          "y": 230.0,
+          "w": 382,
           "h": 34
         },
         "point": {
@@ -1627,23 +1627,23 @@
         "id": "neue_membranen",
         "text": "Bildung neuer Zellmembranen und Zellwände",
         "box": {
-          "x": 537.0,
-          "y": 586.0,
+          "x": 468.0,
+          "y": 537.0,
           "w": 382,
           "h": 34
         },
         "point": {
-          "x": 696.0,
-          "y": 419.0
+          "x": 668.0,
+          "y": 422.0
         }
       },
       {
         "id": "kernhuellen_neu",
         "text": "Zellkernhüllen neu gebildet",
         "box": {
-          "x": 732.0,
-          "y": 533.0,
-          "w": 243,
+          "x": 667.0,
+          "y": 582.0,
+          "w": 382,
           "h": 34
         },
         "point": {
@@ -1655,9 +1655,9 @@
         "id": "teilung_fertig",
         "text": "Teilung der Zelle abgeschlossen",
         "box": {
-          "x": 727.0,
-          "y": 151.0,
-          "w": 274,
+          "x": 634.0,
+          "y": 102.0,
+          "w": 382,
           "h": 34
         },
         "point": {
@@ -1669,9 +1669,9 @@
         "id": "groessenzunahme",
         "text": "Zunahme der Größe",
         "box": {
-          "x": 944.0,
-          "y": 194.0,
-          "w": 182,
+          "x": 865.0,
+          "y": 144.0,
+          "w": 382,
           "h": 34
         },
         "point": {
@@ -1683,9 +1683,9 @@
         "id": "endgroesse",
         "text": "endgültige Größe der Zellen erreicht",
         "box": {
-          "x": 1064.0,
-          "y": 149.0,
-          "w": 308,
+          "x": 1095.0,
+          "y": 98.0,
+          "w": 382,
           "h": 34
         },
         "point": {
@@ -1697,14 +1697,14 @@
         "id": "zellwachstum",
         "text": "Zellwachstum",
         "box": {
-          "x": 877.0,
-          "y": 237.0,
-          "w": 137,
+          "x": 757.0,
+          "y": 669.0,
+          "w": 382,
           "h": 34
         },
         "point": {
-          "x": 944.0,
-          "y": 407.0
+          "x": 943.0,
+          "y": 430.0
         }
       }
     ]

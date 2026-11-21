@@ -316,6 +316,7 @@ class Editor:
         else:
             self.labels = self.default_labels(spec)
 
+        self.normalize_boxes()
         self.dirty = False
         self.sel = None
         self.draw()
@@ -346,6 +347,20 @@ class Editor:
                     "point": {"x": round(px), "y": round(py)},
                 })
         return labels
+
+    def normalize_boxes(self):
+        """Zieht alle Kästchen auf einheitliche Größe (zentriert) – so wie
+        es der Build fürs HTML macht, damit die Ansicht hier dem späteren
+        Ergebnis entspricht."""
+        if not self.labels:
+            return
+        w = max(lb["box"]["w"] for lb in self.labels)
+        h = max(lb["box"]["h"] for lb in self.labels)
+        for lb in self.labels:
+            b = lb["box"]
+            b["x"] += (b["w"] - w) / 2
+            b["y"] += (b["h"] - h) / 2
+            b["w"], b["h"] = w, h
 
     # ---------- Zeichnen ----------
 
@@ -414,6 +429,7 @@ class Editor:
             "point": {"x": ix + iw // 2, "y": iy + ih // 2},
         })
         self.dirty = True
+        self.normalize_boxes()
         self.draw()
         self.select(("bx", len(self.labels) - 1))
 
@@ -437,8 +453,8 @@ class Editor:
         b["w"] = nw
         lb["text"] = t
         self.dirty = True
-        self.refresh_label(i)
-        self.cv.itemconfigure(self.items[i]["text"], text=t)
+        self.normalize_boxes()
+        self.draw()
 
     def delete_selected(self):
         if not self.sel or self.sel[0] != "bx":
@@ -446,6 +462,7 @@ class Editor:
         del self.labels[self.sel[1]]
         self.dirty = True
         self.select(None)
+        self.normalize_boxes()
         self.draw()
 
     # ---------- Ziehen ----------
