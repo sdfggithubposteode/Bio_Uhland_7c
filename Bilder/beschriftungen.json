@@ -1,0 +1,1712 @@
+{
+  "Schematische Tierzelle mit Organellen.png": {
+    "image": {
+      "file": "Bilder/Schematische Tierzelle mit Organellen.png",
+      "width": 1536,
+      "height": 1024
+    },
+    "canvas": {
+      "width": 1410,
+      "height": 1020,
+      "scale": 0.52734
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 810,
+      "h": 540
+    },
+    "crop": {
+      "x": 193,
+      "y": 210,
+      "w": 947,
+      "h": 600
+    },
+    "labels": [
+      {
+        "id": "mitochondrium",
+        "text": "Mitochondrium",
+        "box": {
+          "x": 223.0,
+          "y": 344.0,
+          "w": 150,
+          "h": 34
+        },
+        "point": {
+          "x": 473.0,
+          "y": 438.0
+        }
+      },
+      {
+        "id": "zellplasma",
+        "text": "Zellplasma",
+        "box": {
+          "x": 230.0,
+          "y": 636.0,
+          "w": 114,
+          "h": 34
+        },
+        "point": {
+          "x": 475.0,
+          "y": 540.0
+        }
+      },
+      {
+        "id": "zellkern",
+        "text": "Zellkern",
+        "box": {
+          "x": 938.0,
+          "y": 249.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 864.0,
+          "y": 340.0
+        }
+      },
+      {
+        "id": "zellmembran",
+        "text": "Zellmembran",
+        "box": {
+          "x": 975.0,
+          "y": 715.0,
+          "w": 133,
+          "h": 34
+        },
+        "point": {
+          "x": 908.0,
+          "y": 609.0
+        }
+      }
+    ]
+  },
+  "Dreidimensionale Pflanzenzelle mit Organellen.png": {
+    "image": {
+      "file": "Bilder/Dreidimensionale Pflanzenzelle mit Organellen.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 162,
+      "y": 210,
+      "w": 1027,
+      "h": 600
+    },
+    "labels": [
+      {
+        "id": "zellkern",
+        "text": "Zellkern",
+        "box": {
+          "x": 678.0,
+          "y": 251.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 599.0,
+          "y": 351.0
+        }
+      },
+      {
+        "id": "kernmembran",
+        "text": "Kernmembran",
+        "box": {
+          "x": 371.0,
+          "y": 265.0,
+          "w": 139,
+          "h": 34
+        },
+        "point": {
+          "x": 536.0,
+          "y": 336.0
+        }
+      },
+      {
+        "id": "chloroplast",
+        "text": "Chloroplast",
+        "box": {
+          "x": 926.0,
+          "y": 295.0,
+          "w": 118,
+          "h": 34
+        },
+        "point": {
+          "x": 802.0,
+          "y": 429.0
+        }
+      },
+      {
+        "id": "zellwand",
+        "text": "Zellwand",
+        "box": {
+          "x": 324.0,
+          "y": 669.0,
+          "w": 101,
+          "h": 34
+        },
+        "point": {
+          "x": 489.0,
+          "y": 627.0
+        }
+      },
+      {
+        "id": "zellmembran",
+        "text": "Zellmembran",
+        "box": {
+          "x": 221.0,
+          "y": 570.0,
+          "w": 133,
+          "h": 34
+        },
+        "point": {
+          "x": 451.0,
+          "y": 519.0
+        }
+      },
+      {
+        "id": "mitochondrium",
+        "text": "Mitochondrium",
+        "box": {
+          "x": 192.0,
+          "y": 386.0,
+          "w": 150,
+          "h": 34
+        },
+        "point": {
+          "x": 513.0,
+          "y": 483.0
+        }
+      },
+      {
+        "id": "zellplasma",
+        "text": "Zellplasma",
+        "box": {
+          "x": 800.0,
+          "y": 265.0,
+          "w": 114,
+          "h": 34
+        },
+        "point": {
+          "x": 774.0,
+          "y": 382.0
+        }
+      },
+      {
+        "id": "vakuole",
+        "text": "Vakuole",
+        "box": {
+          "x": 976.0,
+          "y": 486.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 738.0,
+          "y": 540.0
+        }
+      },
+      {
+        "id": "vakuolenmembran",
+        "text": "Vakuolenmembran",
+        "box": {
+          "x": 982.0,
+          "y": 604.0,
+          "w": 177,
+          "h": 34
+        },
+        "point": {
+          "x": 834.0,
+          "y": 588.0
+        }
+      }
+    ]
+  },
+  "Pflanzenzelle im Querschnitt.png": {
+    "image": {
+      "file": "Bilder/Pflanzenzelle im Querschnitt.png",
+      "width": 1672,
+      "height": 941
+    },
+    "canvas": {
+      "width": 1559,
+      "height": 1020,
+      "scale": 0.57386
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 959,
+      "h": 540
+    },
+    "crop": {
+      "x": 270,
+      "y": 145,
+      "w": 1153,
+      "h": 665
+    },
+    "labels": [
+      {
+        "id": "zellmembran",
+        "text": "Zellmembran",
+        "box": {
+          "x": 923.0,
+          "y": 179.0,
+          "w": 133,
+          "h": 34
+        },
+        "point": {
+          "x": 927.0,
+          "y": 312.0
+        }
+      },
+      {
+        "id": "vakuole",
+        "text": "Vakuole",
+        "box": {
+          "x": 406.0,
+          "y": 199.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 619.0,
+          "y": 485.0
+        }
+      },
+      {
+        "id": "zellwand",
+        "text": "Zellwand",
+        "box": {
+          "x": 1123.0,
+          "y": 175.0,
+          "w": 101,
+          "h": 34
+        },
+        "point": {
+          "x": 1037.0,
+          "y": 319.0
+        }
+      },
+      {
+        "id": "zellplasma",
+        "text": "Zellplasma",
+        "box": {
+          "x": 1276.0,
+          "y": 475.0,
+          "w": 114,
+          "h": 34
+        },
+        "point": {
+          "x": 1089.0,
+          "y": 459.0
+        }
+      },
+      {
+        "id": "zellkern",
+        "text": "Zellkern",
+        "box": {
+          "x": 1282.0,
+          "y": 566.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 841.0,
+          "y": 533.0
+        }
+      },
+      {
+        "id": "chloroplast",
+        "text": "Chloroplast",
+        "box": {
+          "x": 1275.0,
+          "y": 327.0,
+          "w": 118,
+          "h": 34
+        },
+        "point": {
+          "x": 1133.0,
+          "y": 392.0
+        }
+      }
+    ]
+  },
+  "Detaillierter Querschnitt eines Blattes.png": {
+    "image": {
+      "file": "Bilder/Detaillierter Querschnitt eines Blattes.png",
+      "width": 1672,
+      "height": 941
+    },
+    "canvas": {
+      "width": 1559,
+      "height": 1020,
+      "scale": 0.57386
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 959,
+      "h": 540
+    },
+    "crop": {
+      "x": 130,
+      "y": 133,
+      "w": 1291,
+      "h": 739
+    },
+    "labels": [
+      {
+        "id": "spaltoeffnung",
+        "text": "Spaltöffnung",
+        "box": {
+          "x": 550.0,
+          "y": 808.0,
+          "w": 131,
+          "h": 34
+        },
+        "point": {
+          "x": 661.0,
+          "y": 667.0
+        }
+      },
+      {
+        "id": "hohlraum",
+        "text": "Hohlraum / Atemhöhle",
+        "box": {
+          "x": 719.0,
+          "y": 808.0,
+          "w": 207,
+          "h": 34
+        },
+        "point": {
+          "x": 700.0,
+          "y": 592.0
+        }
+      },
+      {
+        "id": "kutikula_oben",
+        "text": "Kutikula",
+        "box": {
+          "x": 807.0,
+          "y": 163.0,
+          "w": 94,
+          "h": 34
+        },
+        "point": {
+          "x": 812.0,
+          "y": 249.0
+        }
+      },
+      {
+        "id": "obere_epidermis",
+        "text": "Obere Epidermis",
+        "box": {
+          "x": 1202.0,
+          "y": 308.0,
+          "w": 156,
+          "h": 34
+        },
+        "point": {
+          "x": 1135.0,
+          "y": 392.0
+        }
+      },
+      {
+        "id": "palisadengewebe",
+        "text": "Palisadengewebe",
+        "box": {
+          "x": 358.0,
+          "y": 181.0,
+          "w": 164,
+          "h": 34
+        },
+        "point": {
+          "x": 526.0,
+          "y": 384.0
+        }
+      },
+      {
+        "id": "blattader",
+        "text": "Blattader",
+        "box": {
+          "x": 1035.0,
+          "y": 199.0,
+          "w": 100,
+          "h": 34
+        },
+        "point": {
+          "x": 878.0,
+          "y": 458.0
+        }
+      },
+      {
+        "id": "schwammgewebe",
+        "text": "Schwammgewebe",
+        "box": {
+          "x": 160.0,
+          "y": 507.0,
+          "w": 169,
+          "h": 34
+        },
+        "point": {
+          "x": 437.0,
+          "y": 539.0
+        }
+      },
+      {
+        "id": "untere_epidermis",
+        "text": "Untere Epidermis",
+        "box": {
+          "x": 1229.0,
+          "y": 719.0,
+          "w": 162,
+          "h": 34
+        },
+        "point": {
+          "x": 1133.0,
+          "y": 716.0
+        }
+      },
+      {
+        "id": "kutikula_unten",
+        "text": "Kutikula",
+        "box": {
+          "x": 1181.0,
+          "y": 808.0,
+          "w": 94,
+          "h": 34
+        },
+        "point": {
+          "x": 1127.0,
+          "y": 763.0
+        }
+      }
+    ]
+  },
+  "Realistisches Mikroskop auf weißem Hintergrund.png": {
+    "image": {
+      "file": "Bilder/Realistisches Mikroskop auf weißem Hintergrund.png",
+      "width": 1122,
+      "height": 1402
+    },
+    "canvas": {
+      "width": 1032,
+      "height": 1020,
+      "scale": 0.38516
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 432,
+      "h": 540
+    },
+    "crop": {
+      "x": 201,
+      "y": 190,
+      "w": 690,
+      "h": 651
+    },
+    "labels": [
+      {
+        "id": "okular",
+        "text": "Okular",
+        "box": {
+          "x": 527.0,
+          "y": 220.0,
+          "w": 81,
+          "h": 34
+        },
+        "point": {
+          "x": 451.0,
+          "y": 264.0
+        }
+      },
+      {
+        "id": "tubus",
+        "text": "Tubus",
+        "box": {
+          "x": 308.0,
+          "y": 337.0,
+          "w": 76,
+          "h": 34
+        },
+        "point": {
+          "x": 486.0,
+          "y": 328.0
+        }
+      },
+      {
+        "id": "objektivrevolver",
+        "text": "Objektivrevolver",
+        "box": {
+          "x": 651.0,
+          "y": 329.0,
+          "w": 158,
+          "h": 34
+        },
+        "point": {
+          "x": 574.0,
+          "y": 429.0
+        }
+      },
+      {
+        "id": "objektiv",
+        "text": "Objektiv",
+        "box": {
+          "x": 680.0,
+          "y": 409.0,
+          "w": 95,
+          "h": 34
+        },
+        "point": {
+          "x": 610.0,
+          "y": 473.0
+        }
+      },
+      {
+        "id": "objekttisch",
+        "text": "Objekttisch",
+        "box": {
+          "x": 701.0,
+          "y": 501.0,
+          "w": 117,
+          "h": 34
+        },
+        "point": {
+          "x": 577.0,
+          "y": 545.0
+        }
+      },
+      {
+        "id": "blende",
+        "text": "Blende",
+        "box": {
+          "x": 679.0,
+          "y": 576.0,
+          "w": 83,
+          "h": 34
+        },
+        "point": {
+          "x": 552.0,
+          "y": 596.0
+        }
+      },
+      {
+        "id": "triebrad",
+        "text": "Triebrad",
+        "box": {
+          "x": 231.0,
+          "y": 545.0,
+          "w": 94,
+          "h": 34
+        },
+        "point": {
+          "x": 382.0,
+          "y": 609.0
+        }
+      },
+      {
+        "id": "leuchte",
+        "text": "Mikroskopleuchte",
+        "box": {
+          "x": 693.0,
+          "y": 693.0,
+          "w": 168,
+          "h": 34
+        },
+        "point": {
+          "x": 556.0,
+          "y": 660.0
+        }
+      },
+      {
+        "id": "stativ_fuss",
+        "text": "Stativ und Fuß",
+        "box": {
+          "x": 649.0,
+          "y": 777.0,
+          "w": 140,
+          "h": 34
+        },
+        "point": {
+          "x": 604.0,
+          "y": 733.0
+        }
+      }
+    ]
+  },
+  "zeilung_tiere_zelle.png": {
+    "image": {
+      "file": "Bilder/zeilung_tiere_zelle.png",
+      "width": 659,
+      "height": 218
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 811,
+      "scale": 1.51745
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 331
+    },
+    "crop": {
+      "x": 123,
+      "y": 101,
+      "w": 1207,
+      "h": 500
+    },
+    "labels": [
+      {
+        "id": "teilungsfaehig_1",
+        "text": "teilungsfähige Zelle",
+        "box": {
+          "x": 153.0,
+          "y": 170.0,
+          "w": 183,
+          "h": 34
+        },
+        "point": {
+          "x": 316.0,
+          "y": 271.0
+        }
+      },
+      {
+        "id": "verdopplung",
+        "text": "Verdopplung des Zellkerns",
+        "box": {
+          "x": 344.0,
+          "y": 174.0,
+          "w": 235,
+          "h": 34
+        },
+        "point": {
+          "x": 477.0,
+          "y": 266.0
+        }
+      },
+      {
+        "id": "teilungsfaehig_2",
+        "text": "teilungsfähige Zelle",
+        "box": {
+          "x": 567.0,
+          "y": 131.0,
+          "w": 183,
+          "h": 34
+        },
+        "point": {
+          "x": 763.0,
+          "y": 277.0
+        }
+      },
+      {
+        "id": "differenziert",
+        "text": "differenzierte Zelle (nicht teilungsfähig)",
+        "box": {
+          "x": 769.5,
+          "y": 131.0,
+          "w": 337,
+          "h": 34
+        },
+        "point": {
+          "x": 848.0,
+          "y": 260.0
+        }
+      }
+    ]
+  },
+  "Verschiedene Zelltypen im Überblick.png": {
+    "image": {
+      "file": "Bilder/Verschiedene Zelltypen im Überblick.png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 124,
+      "y": 185,
+      "w": 961,
+      "h": 631
+    },
+    "labels": [
+      {
+        "id": "druesenzelle",
+        "text": "Drüsenzelle",
+        "box": {
+          "x": 154.0,
+          "y": 430.0,
+          "w": 120,
+          "h": 34
+        },
+        "point": {
+          "x": 334.0,
+          "y": 477.0
+        }
+      },
+      {
+        "id": "nervenzelle",
+        "text": "Nervenzelle",
+        "box": {
+          "x": 383.0,
+          "y": 259.0,
+          "w": 122,
+          "h": 34
+        },
+        "point": {
+          "x": 457.0,
+          "y": 332.0
+        }
+      },
+      {
+        "id": "knorpelzelle",
+        "text": "Knorpelzelle",
+        "box": {
+          "x": 239.0,
+          "y": 737.0,
+          "w": 126,
+          "h": 34
+        },
+        "point": {
+          "x": 376.0,
+          "y": 684.0
+        }
+      },
+      {
+        "id": "muskelzelle",
+        "text": "Muskelzelle",
+        "box": {
+          "x": 562.0,
+          "y": 752.0,
+          "w": 121,
+          "h": 34
+        },
+        "point": {
+          "x": 674.0,
+          "y": 662.0
+        }
+      },
+      {
+        "id": "stammzellen",
+        "text": "Stammzellen",
+        "box": {
+          "x": 631.0,
+          "y": 215.0,
+          "w": 130,
+          "h": 34
+        },
+        "point": {
+          "x": 706.0,
+          "y": 285.0
+        }
+      },
+      {
+        "id": "blutzellen",
+        "text": "Blutzellen",
+        "box": {
+          "x": 834.0,
+          "y": 237.0,
+          "w": 107,
+          "h": 34
+        },
+        "point": {
+          "x": 898.0,
+          "y": 323.0
+        }
+      },
+      {
+        "id": "spermienzelle",
+        "text": "Spermienzelle",
+        "box": {
+          "x": 916.0,
+          "y": 488.0,
+          "w": 139,
+          "h": 34
+        },
+        "point": {
+          "x": 824.0,
+          "y": 524.0
+        }
+      },
+      {
+        "id": "eizelle",
+        "text": "Eizelle",
+        "box": {
+          "x": 864.0,
+          "y": 723.0,
+          "w": 80,
+          "h": 34
+        },
+        "point": {
+          "x": 911.0,
+          "y": 693.0
+        }
+      }
+    ]
+  },
+  "Pflanzenzelltypen und Gewebestrukturen.png": {
+    "image": {
+      "file": "Bilder/Pflanzenzelltypen und Gewebestrukturen.png",
+      "width": 1774,
+      "height": 887
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 980,
+      "scale": 0.5637
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 500
+    },
+    "crop": {
+      "x": 221,
+      "y": 149,
+      "w": 1109,
+      "h": 680
+    },
+    "labels": [
+      {
+        "id": "grundgewebe",
+        "text": "Junge Zelle aus dem Grundgewebe",
+        "box": {
+          "x": 251.0,
+          "y": 212.0,
+          "w": 297,
+          "h": 34
+        },
+        "point": {
+          "x": 404.0,
+          "y": 327.0
+        }
+      },
+      {
+        "id": "deckgewebe",
+        "text": "Zelle aus dem Deckgewebe",
+        "box": {
+          "x": 519.0,
+          "y": 258.0,
+          "w": 238,
+          "h": 34
+        },
+        "point": {
+          "x": 641.0,
+          "y": 329.0
+        }
+      },
+      {
+        "id": "speicherzelle",
+        "text": "Speicherzelle",
+        "box": {
+          "x": 869.0,
+          "y": 221.0,
+          "w": 132,
+          "h": 34
+        },
+        "point": {
+          "x": 933.0,
+          "y": 323.0
+        }
+      },
+      {
+        "id": "wurzelhaarzelle",
+        "text": "Wurzelhaarzelle",
+        "box": {
+          "x": 1121.0,
+          "y": 179.0,
+          "w": 154,
+          "h": 34
+        },
+        "point": {
+          "x": 1201.0,
+          "y": 271.0
+        }
+      },
+      {
+        "id": "leitgewebe",
+        "text": "Zelle aus dem Leitgewebe",
+        "box": {
+          "x": 670.0,
+          "y": 765.0,
+          "w": 228,
+          "h": 34
+        },
+        "point": {
+          "x": 785.0,
+          "y": 683.0
+        }
+      }
+    ]
+  },
+  "Histologisches Vierfachbild unter dem Mikroskop(1).png": {
+    "image": {
+      "file": "Bilder/Histologisches Vierfachbild unter dem Mikroskop(1).png",
+      "width": 1448,
+      "height": 1086
+    },
+    "canvas": {
+      "width": 1320,
+      "height": 1020,
+      "scale": 0.49724
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 720,
+      "h": 540
+    },
+    "crop": {
+      "x": 270,
+      "y": 135,
+      "w": 780,
+      "h": 756
+    },
+    "labels": [
+      {
+        "id": "deckgewebe",
+        "text": "Deckgewebe von Tieren",
+        "box": {
+          "x": 412.0,
+          "y": 166.0,
+          "w": 213,
+          "h": 34
+        },
+        "point": {
+          "x": 518.0,
+          "y": 249.0
+        }
+      },
+      {
+        "id": "grundgewebe",
+        "text": "Grundgewebe von Pflanzen",
+        "box": {
+          "x": 378.0,
+          "y": 827.0,
+          "w": 241,
+          "h": 34
+        },
+        "point": {
+          "x": 499.0,
+          "y": 767.0
+        }
+      },
+      {
+        "id": "muskelgewebe",
+        "text": "Muskelgewebe von Tieren",
+        "box": {
+          "x": 694.0,
+          "y": 165.0,
+          "w": 230,
+          "h": 34
+        },
+        "point": {
+          "x": 810.0,
+          "y": 247.0
+        }
+      },
+      {
+        "id": "leitgewebe",
+        "text": "Leitgewebe von Pflanzen",
+        "box": {
+          "x": 688.0,
+          "y": 826.0,
+          "w": 222,
+          "h": 34
+        },
+        "point": {
+          "x": 798.0,
+          "y": 772.0
+        }
+      }
+    ]
+  },
+  "Fünf botanische Lehrillustrationen.png": {
+    "image": {
+      "file": "Bilder/Fünf botanische Lehrillustrationen.png",
+      "width": 2172,
+      "height": 724
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 813,
+      "scale": 0.46041
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 333
+    },
+    "crop": {
+      "x": 270,
+      "y": 133,
+      "w": 1060,
+      "h": 524
+    },
+    "labels": [
+      {
+        "id": "organismus",
+        "text": "Organismus",
+        "box": {
+          "x": 316.5,
+          "y": 163.0,
+          "w": 121,
+          "h": 34
+        },
+        "point": {
+          "x": 377.0,
+          "y": 266.0
+        }
+      },
+      {
+        "id": "organ_blatt",
+        "text": "Organ",
+        "box": {
+          "x": 521.0,
+          "y": 167.0,
+          "w": 77,
+          "h": 34
+        },
+        "point": {
+          "x": 558.0,
+          "y": 267.0
+        }
+      },
+      {
+        "id": "zelle",
+        "text": "Zelle",
+        "box": {
+          "x": 760.0,
+          "y": 166.0,
+          "w": 68,
+          "h": 34
+        },
+        "point": {
+          "x": 794.0,
+          "y": 264.0
+        }
+      },
+      {
+        "id": "gewebe",
+        "text": "Gewebe",
+        "box": {
+          "x": 1139.0,
+          "y": 167.0,
+          "w": 91,
+          "h": 34
+        },
+        "point": {
+          "x": 1186.0,
+          "y": 271.0
+        }
+      },
+      {
+        "id": "organ_blue",
+        "text": "Organsystem",
+        "box": {
+          "x": 932.5,
+          "y": 164.0,
+          "w": 130,
+          "h": 34
+        },
+        "point": {
+          "x": 1000.0,
+          "y": 271.0
+        }
+      },
+      {
+        "id": "z_zellkern",
+        "text": "Zellkern",
+        "box": {
+          "x": 663.0,
+          "y": 254.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 755.0,
+          "y": 349.0
+        }
+      },
+      {
+        "id": "z_zellwand",
+        "text": "Zellmembran",
+        "box": {
+          "x": 638.0,
+          "y": 585.0,
+          "w": 133,
+          "h": 34
+        },
+        "point": {
+          "x": 744.0,
+          "y": 487.0
+        }
+      },
+      {
+        "id": "z_zellplasma",
+        "text": "Zellplasma",
+        "box": {
+          "x": 838.0,
+          "y": 246.0,
+          "w": 114,
+          "h": 34
+        },
+        "point": {
+          "x": 791.0,
+          "y": 315.0
+        }
+      },
+      {
+        "id": "z_vakuole",
+        "text": "Vakuole",
+        "box": {
+          "x": 788.0,
+          "y": 585.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 797.0,
+          "y": 453.0
+        }
+      },
+      {
+        "id": "b_kronblatt",
+        "text": "Staubblatt",
+        "box": {
+          "x": 912.0,
+          "y": 593.0,
+          "w": 110,
+          "h": 34
+        },
+        "point": {
+          "x": 959.0,
+          "y": 412.0
+        }
+      },
+      {
+        "id": "z_chloroplast",
+        "text": "Chloroplast",
+        "box": {
+          "x": 834.0,
+          "y": 525.0,
+          "w": 118,
+          "h": 34
+        },
+        "point": {
+          "x": 824.0,
+          "y": 466.0
+        }
+      },
+      {
+        "id": "b_staubblatt",
+        "text": "Stempel",
+        "box": {
+          "x": 1028.5,
+          "y": 242.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 1007.0,
+          "y": 374.0
+        }
+      },
+      {
+        "id": "b_fruchtblatt",
+        "text": "Blütenblatt (Kronblatt)",
+        "box": {
+          "x": 997.0,
+          "y": 545.0,
+          "w": 204,
+          "h": 34
+        },
+        "point": {
+          "x": 1053.0,
+          "y": 378.0
+        }
+      }
+    ]
+  },
+  "Botanische Infografik zur Photosynthese.png": {
+    "image": {
+      "file": "Bilder/Botanische Infografik zur Photosynthese.png",
+      "width": 1145,
+      "height": 1373
+    },
+    "canvas": {
+      "width": 1050,
+      "height": 1020,
+      "scale": 0.3933
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 450,
+      "h": 540
+    },
+    "crop": {
+      "x": 270,
+      "y": 145,
+      "w": 636,
+      "h": 665
+    },
+    "labels": [
+      {
+        "id": "licht",
+        "text": "Licht",
+        "box": {
+          "x": 354.0,
+          "y": 175.0,
+          "w": 67,
+          "h": 34
+        },
+        "point": {
+          "x": 422.0,
+          "y": 299.0
+        }
+      },
+      {
+        "id": "co2",
+        "text": "CO₂",
+        "box": {
+          "x": 590.0,
+          "y": 533.0,
+          "w": 58,
+          "h": 34
+        },
+        "point": {
+          "x": 655.0,
+          "y": 492.0
+        }
+      },
+      {
+        "id": "wasser",
+        "text": "Wasser mit Mineralstoffen",
+        "box": {
+          "x": 645.0,
+          "y": 671.0,
+          "w": 231,
+          "h": 34
+        },
+        "point": {
+          "x": 578.0,
+          "y": 689.0
+        }
+      },
+      {
+        "id": "glukose",
+        "text": "Glukose",
+        "box": {
+          "x": 601.0,
+          "y": 183.0,
+          "w": 91,
+          "h": 34
+        },
+        "point": {
+          "x": 676.0,
+          "y": 332.0
+        }
+      },
+      {
+        "id": "o2",
+        "text": "O₂",
+        "box": {
+          "x": 692.0,
+          "y": 541.0,
+          "w": 48,
+          "h": 34
+        },
+        "point": {
+          "x": 714.0,
+          "y": 493.0
+        }
+      }
+    ]
+  },
+  "Biomoleküle_ Bausteine und Beispiele.png": {
+    "image": {
+      "file": "Bilder/Biomoleküle_ Bausteine und Beispiele.png",
+      "width": 1305,
+      "height": 1205
+    },
+    "canvas": {
+      "width": 1185,
+      "height": 1020,
+      "scale": 0.44813
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 585,
+      "h": 540
+    },
+    "crop": {
+      "x": 270,
+      "y": 155,
+      "w": 799,
+      "h": 669
+    },
+    "labels": [
+      {
+        "id": "einfachzucker",
+        "text": "Einfachzucker",
+        "box": {
+          "x": 312.0,
+          "y": 186.0,
+          "w": 137,
+          "h": 34
+        },
+        "point": {
+          "x": 394.0,
+          "y": 305.0
+        }
+      },
+      {
+        "id": "zweifachzucker",
+        "text": "Zweifachzucker",
+        "box": {
+          "x": 460.0,
+          "y": 186.0,
+          "w": 150,
+          "h": 34
+        },
+        "point": {
+          "x": 530.0,
+          "y": 325.0
+        }
+      },
+      {
+        "id": "vielfachzucker",
+        "text": "Vielfachzucker",
+        "box": {
+          "x": 619.0,
+          "y": 185.0,
+          "w": 143,
+          "h": 34
+        },
+        "point": {
+          "x": 672.0,
+          "y": 321.0
+        }
+      },
+      {
+        "id": "glycerin",
+        "text": "Glycerin",
+        "box": {
+          "x": 342.0,
+          "y": 419.0,
+          "w": 93,
+          "h": 34
+        },
+        "point": {
+          "x": 390.0,
+          "y": 520.0
+        }
+      },
+      {
+        "id": "kartoffeln",
+        "text": "Kartoffeln",
+        "box": {
+          "x": 932.0,
+          "y": 204.0,
+          "w": 107,
+          "h": 34
+        },
+        "point": {
+          "x": 855.0,
+          "y": 291.0
+        }
+      },
+      {
+        "id": "proteinbausteine",
+        "text": "Proteinbausteine",
+        "box": {
+          "x": 302.0,
+          "y": 760.0,
+          "w": 161,
+          "h": 34
+        },
+        "point": {
+          "x": 400.0,
+          "y": 715.0
+        }
+      },
+      {
+        "id": "fettsaeuren",
+        "text": "Fettsäuren",
+        "box": {
+          "x": 484.0,
+          "y": 418.0,
+          "w": 110,
+          "h": 34
+        },
+        "point": {
+          "x": 541.0,
+          "y": 513.0
+        }
+      },
+      {
+        "id": "fette",
+        "text": "Fette",
+        "box": {
+          "x": 622.0,
+          "y": 417.0,
+          "w": 68,
+          "h": 34
+        },
+        "point": {
+          "x": 669.0,
+          "y": 482.0
+        }
+      },
+      {
+        "id": "erdnuesse",
+        "text": "Erdnüsse",
+        "box": {
+          "x": 916.0,
+          "y": 474.0,
+          "w": 98,
+          "h": 34
+        },
+        "point": {
+          "x": 832.0,
+          "y": 481.0
+        }
+      },
+      {
+        "id": "proteine",
+        "text": "Proteine",
+        "box": {
+          "x": 548.0,
+          "y": 759.0,
+          "w": 95,
+          "h": 34
+        },
+        "point": {
+          "x": 597.0,
+          "y": 730.0
+        }
+      },
+      {
+        "id": "sojabohnen",
+        "text": "Sojabohnen",
+        "box": {
+          "x": 902.0,
+          "y": 641.0,
+          "w": 122,
+          "h": 34
+        },
+        "point": {
+          "x": 822.0,
+          "y": 662.0
+        }
+      }
+    ]
+  },
+  "Pflanzenzellteilung und Wachstum in sechs Stadien.png": {
+    "image": {
+      "file": "Bilder/Pflanzenzellteilung und Wachstum in sechs Stadien.png",
+      "width": 2172,
+      "height": 724
+    },
+    "canvas": {
+      "width": 1600,
+      "height": 813,
+      "scale": 0.46041
+    },
+    "imageRect": {
+      "x": 300,
+      "y": 240,
+      "w": 1000,
+      "h": 333
+    },
+    "crop": {
+      "x": 197,
+      "y": 119,
+      "w": 1205,
+      "h": 578
+    },
+    "labels": [
+      {
+        "id": "zellkern_erbsubstanz",
+        "text": "Zellkern mit Erbsubstanz",
+        "box": {
+          "x": 227.0,
+          "y": 582.0,
+          "w": 219,
+          "h": 34
+        },
+        "point": {
+          "x": 374.0,
+          "y": 419.0
+        }
+      },
+      {
+        "id": "zellteilung",
+        "text": "Zellteilung",
+        "box": {
+          "x": 389.0,
+          "y": 289.0,
+          "w": 114,
+          "h": 34
+        },
+        "point": {
+          "x": 448.0,
+          "y": 408.0
+        }
+      },
+      {
+        "id": "aufloesen_kernhuelle",
+        "text": "Auflösen der Zellkernhülle",
+        "box": {
+          "x": 413.0,
+          "y": 247.0,
+          "w": 233,
+          "h": 34
+        },
+        "point": {
+          "x": 532.0,
+          "y": 415.0
+        }
+      },
+      {
+        "id": "beginn_verteilung",
+        "text": "Beginn der Verteilung der Erbsubstanz",
+        "box": {
+          "x": 371.0,
+          "y": 633.0,
+          "w": 323,
+          "h": 34
+        },
+        "point": {
+          "x": 534.0,
+          "y": 438.0
+        }
+      },
+      {
+        "id": "verteilt",
+        "text": "Erbsubstanz gleichmäßig verteilt",
+        "box": {
+          "x": 562.0,
+          "y": 201.0,
+          "w": 281,
+          "h": 34
+        },
+        "point": {
+          "x": 697.0,
+          "y": 383.0
+        }
+      },
+      {
+        "id": "neue_membranen",
+        "text": "Bildung neuer Zellmembranen und Zellwände",
+        "box": {
+          "x": 537.0,
+          "y": 586.0,
+          "w": 382,
+          "h": 34
+        },
+        "point": {
+          "x": 696.0,
+          "y": 419.0
+        }
+      },
+      {
+        "id": "kernhuellen_neu",
+        "text": "Zellkernhüllen neu gebildet",
+        "box": {
+          "x": 732.0,
+          "y": 533.0,
+          "w": 243,
+          "h": 34
+        },
+        "point": {
+          "x": 857.0,
+          "y": 469.0
+        }
+      },
+      {
+        "id": "teilung_fertig",
+        "text": "Teilung der Zelle abgeschlossen",
+        "box": {
+          "x": 727.0,
+          "y": 151.0,
+          "w": 274,
+          "h": 34
+        },
+        "point": {
+          "x": 864.0,
+          "y": 333.0
+        }
+      },
+      {
+        "id": "groessenzunahme",
+        "text": "Zunahme der Größe",
+        "box": {
+          "x": 944.0,
+          "y": 194.0,
+          "w": 182,
+          "h": 34
+        },
+        "point": {
+          "x": 1034.0,
+          "y": 302.0
+        }
+      },
+      {
+        "id": "endgroesse",
+        "text": "endgültige Größe der Zellen erreicht",
+        "box": {
+          "x": 1064.0,
+          "y": 149.0,
+          "w": 308,
+          "h": 34
+        },
+        "point": {
+          "x": 1216.0,
+          "y": 276.0
+        }
+      },
+      {
+        "id": "zellwachstum",
+        "text": "Zellwachstum",
+        "box": {
+          "x": 877.0,
+          "y": 237.0,
+          "w": 137,
+          "h": 34
+        },
+        "point": {
+          "x": 944.0,
+          "y": 407.0
+        }
+      }
+    ]
+  }
+}
